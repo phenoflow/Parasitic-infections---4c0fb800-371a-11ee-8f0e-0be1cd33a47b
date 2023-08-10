@@ -1,0 +1,90 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/parasitic-infections-amoebiasis---secondary.py
+inputModule3:
+  class: File
+  path: python/intestinal-parasitic-infections---secondary.py
+inputModule4:
+  class: File
+  path: python/parasitic-infections-trichomoniasis---secondary.py
+inputModule5:
+  class: File
+  path: python/parasitic-infections-plasmodium---secondary.py
+inputModule6:
+  class: File
+  path: python/parasitic-infections-malaria---secondary.py
+inputModule7:
+  class: File
+  path: python/parasitic-infections-unspecified---secondary.py
+inputModule8:
+  class: File
+  path: python/parasitic-infections-leishmaniasis---secondary.py
+inputModule9:
+  class: File
+  path: python/parasitic-infections---secondary.py
+inputModule10:
+  class: File
+  path: python/parasitic-infections-chaga---secondary.py
+inputModule11:
+  class: File
+  path: python/parasitic-infections-toxoplasmosis---secondary.py
+inputModule12:
+  class: File
+  path: python/parasitic-infections-classified---secondary.py
+inputModule13:
+  class: File
+  path: python/parasitic-infections-protozoal---secondary.py
+inputModule14:
+  class: File
+  path: python/other-parasitic-infections---secondary.py
+inputModule15:
+  class: File
+  path: python/parasitic-infections-echinococcosis---secondary.py
+inputModule16:
+  class: File
+  path: python/parasitic-infections-taeniasis---secondary.py
+inputModule17:
+  class: File
+  path: python/parasitic-infections-cysticercosis---secondary.py
+inputModule18:
+  class: File
+  path: python/parasitic-infections-dracunculiasis---secondary.py
+inputModule19:
+  class: File
+  path: python/parasitic-infections-onchocerciasis---secondary.py
+inputModule20:
+  class: File
+  path: python/parasitic-infections-filariasis---secondary.py
+inputModule21:
+  class: File
+  path: python/parasitic-infections-trichinellosis---secondary.py
+inputModule22:
+  class: File
+  path: python/parasitic-infections-hookworm---secondary.py
+inputModule23:
+  class: File
+  path: python/parasitic-infections-ascariasis---secondary.py
+inputModule24:
+  class: File
+  path: python/parasitic-infections-strongyloidiasis---secondary.py
+inputModule25:
+  class: File
+  path: python/parasitic-infections-trichuriasis---secondary.py
+inputModule26:
+  class: File
+  path: python/parasitic-infections-enterobiasis---secondary.py
+inputModule27:
+  class: File
+  path: python/parasitic-infections-helminthias---secondary.py
+inputModule28:
+  class: File
+  path: python/parasitic-infections-scabies---secondary.py
+inputModule29:
+  class: File
+  path: python/parasitic-infections-myiasis---secondary.py
+inputModule30:
+  class: File
+  path: python/output-cases.py
